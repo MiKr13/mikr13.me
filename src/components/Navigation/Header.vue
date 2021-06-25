@@ -20,13 +20,13 @@
             >
           </li>
           <li class="nav__item" @click="navToggleClick(false)">
-            <a href="#career" class="nav__link"
-              ><i class="uil uil-briefcase-alt nav__icon"></i> Career</a
+            <a href="#qualification" class="nav__link"
+              ><i class="uil uil-briefcase-alt nav__icon"></i> Qualification</a
             >
           </li>
           <li class="nav__item" @click="navToggleClick(false)">
-            <a href="#projects" class="nav__link"
-              ><i class="uil uil-scenery nav__icon"></i> Projects</a
+            <a href="#portfolio" class="nav__link"
+              ><i class="uil uil-scenery nav__icon"></i> Portfolio</a
             >
           </li>
           <li class="nav__item" @click="navToggleClick(false)">
